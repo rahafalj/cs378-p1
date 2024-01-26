@@ -1,0 +1,42 @@
+body {
+    color: hotpink;
+}
+
+.food-description {
+    padding-right: 10%;
+}
+
+.title {
+    font-weight: bold;
+    font-size: 120%;
+    padding-bottom: 1%;
+}
+
+.description {
+    font-size: 100%;
+    padding-bottom: 1%;
+}
+
+.price {
+
+}
+
+.add button {
+    border-radius: 50%;
+    width: 100%;
+    background-color: plum;
+}
+
+.food-img img {
+    height: 110px; 
+    width: 140px; 
+    padding-left: 15%; 
+    padding-right: 10%; 
+    border-radius: 25%;
+}
+
+.menu-items {
+    padding-bottom: 8%;
+}
+
+
